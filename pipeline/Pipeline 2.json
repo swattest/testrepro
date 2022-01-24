@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": " https://management.azure.com/subscriptions/bcf4df5a-e374-48a0-ad97-56e5386b84b3/resourceGroups/swati/providers/pipelines/Pipeline 2/createRun?api-version=2018-06-01",
+					"url": "https://management.azure.com/subscriptions/bcf4df5a-e374-48a0-ad97-56e5386b84b3/resourceGroups/swati/providers/pipelines/Pipeline2/createRun?api-version=2018-06-01",
 					"connectVia": {
 						"referenceName": "AutoResolveIntegrationRuntime",
 						"type": "IntegrationRuntimeReference"
